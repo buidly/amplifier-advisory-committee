@@ -64,7 +64,7 @@ The purpose of this review is to ensure that the integration of Stacks with the 
 - **Developer Documentation:** https://docs.stacks.co/
 - **Whitepaper:** https://stacks-network.github.io/stacks/stacks.pdf
 - **Independent Audit Reports:** https://stacks.org/audits
-- **Stacks Axelar Contracts Report:** TBD
+- **Stacks Axelar Contracts Report:** [Clarity Alliance](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Axelar.pdf)
 - **Stacks Axelar Amplifier Report:** [FYEO v1.0](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20Stacks%20v1.0.pdf)
 
 ## Community Involvement
